@@ -28,3 +28,4 @@
 ## 專案狀態
 
 內容持續整理中。此知識庫為教育與研究用途，不應取代原始文獻閱讀。
+GitHub Pages deployment update.
