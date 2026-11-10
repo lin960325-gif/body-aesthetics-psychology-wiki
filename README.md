@@ -1,42 +1,30 @@
 # 身體的枷鎖與心靈的鏡子
 
-本專案是一個以 Markdown 建立的個人知識庫，探討歷史上的身體改造與審美現象，以及其背後可能涉及的心理學、社會學與權力結構。
+以歷史身體實踐為入口，探索審美規範、心理機制、性別、階級、族群認同與身體政治的繁體中文知識庫。
 
-## 從這裡開始
+## 開始閱讀
 
-請先閱讀 [知識庫總目錄](index.md)。
+請從 [知識庫首頁](index.md) 開始，或直接閱讀：
+- [總論：身體、審美與權力](wiki/overview.md)
+- [理論工具箱](wiki/theory_toolkit.md)
+- [跨案例比較](wiki/comparison.md)
+- [來源資料庫](sources.md)
 
-## 專案內容
+## 目前主題
 
-- `index.md`：知識庫總目錄與主題索引
-- `log.md`：專案異動紀錄
-- `AGENTS.md`：新增、修改內容時的專案規範
-- `wiki/overview.md`：人類為何進行極端身體改造
-- `wiki/footbinding.md`：中國裹小腳
-- `wiki/corset.md`：歐洲維多利亞束腰
-- `wiki/kayan_neck.md`：東南亞長頸族
-- `wiki/high_heels.md`：現代高跟鞋
+- 中國纏足
+- 歐洲束身衣
+- 卡揚女性頸圈
+- 高跟鞋
 
-## 資料夾結構
+## 研究原則
 
-```text
-.
-├── AGENTS.md
-├── README.md
-├── index.md
-├── log.md
-└── wiki/
-    ├── overview.md
-    ├── footbinding.md
-    ├── corset.md
-    ├── kayan_neck.md
-    └── high_heels.md
-```
+本專案區分歷史事實、研究結果、理論詮釋與本站推論。優先使用學術論文、博物館典藏、大學研究中心及學術出版社資料；對起源爭議、研究限制與群體內部差異會明確說明。
 
-## 如何在 GitHub 上閱讀
+## GitHub Pages
 
-將此資料夾上傳至 GitHub repository。GitHub 會以本檔案 `README.md` 作為專案首頁；點選上方的 `index.md` 即可進入完整知識庫目錄。
+此 Repository 可透過 GitHub Pages 發布。首頁為 `index.md`；各主題文章位於 `wiki/`。
 
-## 注意
+## 專案狀態
 
-目前內容屬於知識整理草稿。文中歷史敘述、理論連結與實證研究仍應逐項補上可靠來源並進行查證；不要將尚未核實的說法視為已確認的學術結論。
+內容持續整理中。此知識庫為教育與研究用途，不應取代原始文獻閱讀。
